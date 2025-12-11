@@ -9,7 +9,7 @@ I like fixing things, improving slow queries, and keeping older systems running 
 ## 🔧 What I work with
 
 ### Main skills
-- ColdFusion / CFML  ? Coldbox
+- ColdFusion / CFML / Coldbox
 - PHP (Core, OOP)  
 - REST APIs  
 - MySQL (indexes, performance, queries)  
