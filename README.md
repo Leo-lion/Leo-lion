@@ -36,7 +36,6 @@ I'm open to freelance or remote roles involving:
 - General PHP backend work  
 - Frontend layout and responsive design work  
 
-📬 **your-email-here**
 
 Feel free to reach out if you’re looking for someone who can handle backend stability and also build clean, responsive interfaces.
 
@@ -51,6 +50,7 @@ I enjoy code that’s readable and maintainable — it makes everyone’s life e
 ## 🔗 Find Me Online
 
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-3065%20pts-orange?logo=stackoverflow)](https://stackoverflow.com/users/3373905/leo-the-lion)
+
 
 
 Thanks for visiting my profile.
