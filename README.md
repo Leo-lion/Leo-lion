@@ -48,4 +48,9 @@ I like understanding how systems actually work under the hood.
 Most of the projects I’ve worked on needed stability, long-term maintenance, and performance fixes.  
 I enjoy code that’s readable and maintainable — it makes everyone’s life easier.
 
+## 🔗 Find Me Online
+
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-3065%20pts-orange?logo=stackoverflow)](https://stackoverflow.com/users/3373905/leo-the-lion)
+
+
 Thanks for visiting my profile.
